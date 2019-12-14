@@ -8,5 +8,5 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
 
     index = random.randint(0,3)
     values = ['ג','ה','ש','נ']
-    out =str(values[0])
+    out =str(values[index])
     return func.HttpResponse(out)
