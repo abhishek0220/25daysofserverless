@@ -1,3 +1,2 @@
 azure-functions
-azure.cognitiveservices.language.textanalytics
-msrest.authentication
+azure-cognitiveservices-language-textanalytics
